@@ -1,6 +1,6 @@
 - 👀 I’m interested in mechine learning and computational physics
 - 🌱 I’m currently learning at University of British Columbia
-- 💞️ I’m looking to collaborate on image processing, physics system simulation, computational fluid dynamics.
+- 💞️ I’m looking to collaborate on image processing, computational fluid dynamics, molecular dynamics, and protein folding algorithm.
 - 📫 How to reach me johananze@outlook.com
 
 <!---
